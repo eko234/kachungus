@@ -4,8 +4,8 @@ This is a tool for coercing lua values to a json schema helping you keep data co
 the idea is to improve it further, but it is not my priority for now, it solves a use case for me
 which is keeping data integrity while building json rest apis with the awesome lapis framework.
 
-It only depends on cjson but if you want to change how to represent values the "library" is quite
-simple.
+It only depends on cjson but if you want to change how to represent values, then the "library" is quite
+simple so go ahead and hack it.
 
 ## USE
 
